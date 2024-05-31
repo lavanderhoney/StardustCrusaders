@@ -1,5 +1,4 @@
 # StardustCrusaders
-This is our team's code for the open innovation track.
-We have named our solution: Tutorless Tutor.
-The demo video is also attached.
-https://drive.google.com/file/d/1UMIOxyhl6cScdUMUl56nZ3ubAmQ14iLO/view?usp=sharing
+This is python script which detects whether an object is moving to the left or right side in the camera frame, using OpenCV.
+It was made as part of the open innovation track in the HackNUthon 4.0, a hackathon held in Nirma University, Ahmedabad, on April 2023
+A working demo link: https://drive.google.com/file/d/1UMIOxyhl6cScdUMUl56nZ3ubAmQ14iLO/view?usp=sharing
